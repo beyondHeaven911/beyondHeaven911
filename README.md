@@ -35,10 +35,9 @@
  ![Static Badge](https://img.shields.io/badge/C_Sharp-gray?style=for-the-badge&logo=c&logoColor=White&labelColor=black&color=%2300599C)
  ![Static Badge](https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black&color=%231572B6)
  ![Static Badge](https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26)
- ![Static Badge](https://img.shields.io/badge/Illustrator-gray?style=for-the-badge&logo=academia&logoColor=%23E34F26&labelColor=black&color=%23E34F26)
+ <img alt="Static Badge" src="https://img.shields.io/badge/Illustrator-gray?style=for-the-badge&logo=academia&logoColor=%23E34F26&labelColor=black&color=%23E34F26">
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
 </p>
