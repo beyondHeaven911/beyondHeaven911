@@ -15,7 +15,7 @@
  
 <p align="left">
   <a href="mailto:dhruvmaniar1604@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dhruvmaniar1604@gamil.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+    <img src="https://img.shields.io/badge/Email-dhruvmaniar1604@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 </p>
 
