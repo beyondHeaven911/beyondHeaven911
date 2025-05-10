@@ -7,7 +7,7 @@
 - 💬 Ask me about **Anything!**
 - 📫 How to reach me **dhruvmaniar1604@gmail.com**
 
-<lr></lr>
+<br></br>
  
 <p align="left">
   <a href="mailto:dhruvmaniar1604@gmail.com">
