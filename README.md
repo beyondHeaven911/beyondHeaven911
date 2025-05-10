@@ -29,7 +29,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<span style="display:inline-block; width:20px; height:20px; background:#4caf50; border-radius:50%; margin-right:5px;"></span> Active
+<span style="display:inline-block; width:20px; height:20px; background:#4caf50; border-radius:50%; margin-right:5px;">HTMl</span>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=blender,cs,css,html,illustrator,js,photoshop,python,unity" />
