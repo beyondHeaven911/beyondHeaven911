@@ -15,5 +15,5 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=blender,csharp,css,html,illustrator,js,photoshop,python,unity" />
+  <img src="https://skillicons.dev/icons?i=blender,cs,css,html,illustrator,js,photoshop,python,unity" />
 </p>
