@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Maniar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Pulse Wave](pulsewave12.netlify.app)
+- 🔭 I’m currently working on [Pulse Wave](https://pulsewave.netlify.app) — check it out: [pulsewave.netlify.app](https://pulsewave.netlify.app)
 - 🌱 I’m currently learning **C#, Javascript, HTML, CSS**
 - 👯 I’m looking to collaborate on **Game Development**
 - 💬 Ask me about **Anything!**
