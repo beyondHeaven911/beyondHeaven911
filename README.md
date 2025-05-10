@@ -21,6 +21,8 @@
 
 <hr></hr>
 
+![Funny Coding GIF](https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif)
+
 <p align="left">
 <!-- You can add social icons here if needed -->
 </p>
