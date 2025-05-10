@@ -8,6 +8,10 @@
 - 📫 How to reach me **dhruvmaniar1604@gmail.com**
 
 <hr></hr>
+
+<h3>
+ Connect with me:
+</h3>
  
 <p align="left">
   <a href="mailto:dhruvmaniar1604@gmail.com">
