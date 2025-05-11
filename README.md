@@ -31,14 +31,13 @@
 
 <p align="left">
   <!--<img src="https://skillicons.dev/icons?i=blender,cs,css,html,illustrator,js,photoshop,python,unity" />-->
- <img alt="Blender" src="https://img.shields.io/badge/Blender-gray?style=for-the-badge&logo=blender&logoColor=%23E87D0D&labelColor=black&color=%23E87D0D">
-<img alt="C Sharp" src="https://img.shields.io/badge/C_Sharp-gray?style=for-the-badge&logo=c&logoColor=White&labelColor=black&color=%2300599C">
-<img alt="CSS" src="https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black&color=%231572B6">
-<img alt="HTML" src="https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=black">
+<img alt="C Sharp" src="https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/Illustrator-gray?style=for-the-badge&logo=academia&logoColor=%23E34F26&labelColor=black&color=%23E34F26">
- 
+<img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
